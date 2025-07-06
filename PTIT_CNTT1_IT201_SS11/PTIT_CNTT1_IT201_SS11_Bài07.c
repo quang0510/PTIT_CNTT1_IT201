@@ -77,9 +77,9 @@ Node* insertAt(Node* head, int value, int index) {
 
 int main() {
     Node* head = NULL;
-    Node* node1 = createNode(6);
+    Node* node1 = createNode(1);
     Node* node2 = createNode(2);
-    Node* node3 = createNode(7);
+    Node* node3 = createNode(3);
     Node* node4 = createNode(4);
     Node* node5 = createNode(5);
 
